@@ -11,7 +11,7 @@ import SwiftUI
 struct StateBindingSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView1()
         }
     }
 }
